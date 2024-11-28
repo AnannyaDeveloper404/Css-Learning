@@ -320,7 +320,7 @@ The box model includes:
   - `visible`: Content is not clipped (default).
   - `hidden`: Content is clipped and not scrollable.
   - `scroll`: Content is clipped and scrollable.
-  - `auto`: Scrollbars appear only if needed.
+  - `auto`: ScrollBars appear only if needed.
 - Example:
   ```css
   div {
